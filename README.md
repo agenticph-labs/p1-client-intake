@@ -1,5 +1,6 @@
 # Client Intake & Project Scoping Pipeline
 
+[![Status: Live](https://img.shields.io/badge/status-live-22c55e.svg)](https://github.com/agenticph-labs/p1-client-intake)
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
@@ -213,4 +214,4 @@ MIT — see [LICENSE](LICENSE).
 
 ---
 
-*Built as Portfolio Project 1 for Business Automation — AgenticPH Labs*
+*Built as Portfolio Project 1 for Business Automation — [AgenticPH Labs](https://agenticph-labs.github.io/portfolio)*
