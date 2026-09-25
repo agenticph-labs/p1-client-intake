@@ -1,0 +1,54 @@
+{
+  "clients": [
+    {
+      "id": "CLT-001",
+      "name": "Acme Manufacturing Corp",
+      "industry": "Manufacturing",
+      "size": "Enterprise (500+ employees)",
+      "location": "Chicago, IL",
+      "website": "https://acme-manufacturing.example.com",
+      "need": "We need to digitize our supply chain tracking. Currently using spreadsheets and paper forms. Want real-time inventory visibility and automated purchase order generation.",
+      "research_notes": "Competitors have adopted ERP solutions. Company has legacy mainframe systems. Budget estimated at $150K–$250K."
+    },
+    {
+      "id": "CLT-002",
+      "name": "BrightPath Healthcare",
+      "industry": "Healthcare",
+      "size": "Mid-size (100–500 employees)",
+      "location": "Austin, TX",
+      "website": "https://brightpath-health.example.com",
+      "need": "Looking for a patient portal and appointment scheduling system integrated with their existing EHR. Need HIPAA compliance and mobile access.",
+      "research_notes": "Currently using Athenahealth but want more customization. IT team of 5. Timeline 6–9 months."
+    },
+    {
+      "id": "CLT-003",
+      "name": "GreenLeaf Landscaping",
+      "industry": "Services / Landscaping",
+      "size": "Small (10–50 employees)",
+      "location": "Portland, OR",
+      "website": "",
+      "need": "Need a simple website with booking capability. Also want CRM for client management and automated follow-up emails after service visits.",
+      "research_notes": "No current digital presence besides Google My Business. Budget under $30K. Owner wants something live in 2 months."
+    },
+    {
+      "id": "CLT-004",
+      "name": "Pinnacle Financial Group",
+      "industry": "Finance / Insurance",
+      "size": "Mid-size (100–500 employees)",
+      "location": "New York, NY",
+      "website": "https://pinnacle-fin.example.com",
+      "need": "We need to automate our client onboarding and KYC/AML compliance checks. Manual processes are slowing down account openings by 2–3 weeks.",
+      "research_notes": "Regulated by SEC and FINRA. Current process uses PDF forms and email. Want integration with Clear and Onfido for identity verification."
+    },
+    {
+      "id": "CLT-005",
+      "name": "TidePool Retail",
+      "industry": "Retail / E-commerce",
+      "size": "Small (10–50 employees)",
+      "location": "Santa Monica, CA",
+      "website": "https://tidepool-retail.example.com",
+      "need": "Want to build an e-commerce website with inventory management, payment processing, and shipping integration. Currently selling on Etsy only.",
+      "research_notes": "Etsy store has 15K+ sales. Ready to move to own platform. Shopify vs custom build under evaluation. Budget $40K–$80K."
+    }
+  ]
+}

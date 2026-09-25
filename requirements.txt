@@ -1,0 +1,5 @@
+# Core dependencies — stdlib only for the pipeline itself.
+# No external packages required.
+
+# For development & testing:
+pytest>=7.0
