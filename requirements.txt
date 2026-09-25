@@ -3,3 +3,6 @@
 
 # For development & testing:
 pytest>=7.0
+
+# Web UI (optional — used by streamlit_ui.py)
+streamlit>=1.28

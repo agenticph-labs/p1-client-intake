@@ -63,7 +63,7 @@ The system classifies client needs into these categories (configurable in `CLASS
 - Python 3.10+
 - No external dependencies (stdlib only)
 
-### Usage
+### Usage (CLI)
 
 ```bash
 # Process the bundled sample data (JSON + CSV = 7 clients)
@@ -77,6 +77,14 @@ python client_intake_pipeline.py intake_data/
 
 # Process multiple sources
 python client_intake_pipeline.py my_clients.json my_clients.csv
+```
+
+### Usage (Web UI)
+
+```bash
+# Launch the Streamlit web dashboard
+pip install -r requirements.txt
+streamlit run streamlit_ui.py
 ```
 
 ### Sample Data
